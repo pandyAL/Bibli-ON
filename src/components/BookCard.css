@@ -1,0 +1,45 @@
+.book-card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  text-align: center;
+
+}
+
+.book-card__cover {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.book-card__title {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.book-card__author {
+  color: #666;
+}
+
+.book-card__link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.book-card__link:hover {
+  text-decoration: underline;
+}
+
+.book-card__button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.book-card__button:hover {
+  background-color: #0056b3;
+}

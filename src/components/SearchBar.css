@@ -1,0 +1,10 @@
+.search-bar {
+    margin-bottom: 1rem;
+  }
+  
+  .search-bar__input {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }

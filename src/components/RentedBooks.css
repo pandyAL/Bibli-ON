@@ -1,0 +1,32 @@
+.rented-books {
+    padding: 1rem;
+  }
+  
+  .rented-books__title {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .rented-books__item {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+  }
+  
+  .rented-books__due-date {
+    color: #666;
+  }
+  
+  .rented-books__button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .rented-books__button:hover {
+    background-color: #0056b3;
+  }

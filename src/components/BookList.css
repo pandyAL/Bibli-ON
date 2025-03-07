@@ -1,0 +1,14 @@
+.book-list {
+    padding: 1rem;
+  }
+  
+  .book-list__title {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .book-list__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1rem;
+  }
